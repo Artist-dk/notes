@@ -41,7 +41,7 @@ Blue teams are defensive security professionals who protect an organization from
 - Risk Assessments: Evaluating risks to prioritize security measures.
 - Threat Detection: Identifying and responding to security threats.
 
-## File System Reference
+## Kali linux - File System Reference
 
 - / - root directory
     - /root - The super-user's home directory
@@ -326,23 +326,23 @@ To install more tools via apt modify file `/etc/apt/sources.list` as per you nee
 
 # IMP LINKS
 ### Juice shop
-https://github.com/bkimminich/juice-shop#setup
-https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/
+- [https://github.com/bkimminich/juice-shop#setup](https://github.com/bkimminich/juice-shop#setup)
+- [https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/)
 
 ### OWASP Testing Guides
-https://www.owasp.org/images/1/19/OTGv4.pdf
-https://github.com/tanprathan/OWASP-Testing-Checklist
+- [https://www.owasp.org/images/1/19/OTGv4.pdf](https://www.owasp.org/images/1/19/OTGv4.pdf)
+- [https://github.com/tanprathan/OWASP-Testing-Checklist](https://github.com/tanprathan/OWASP-Testing-Checklist)
 
 ### Bug Bounties:
-https://bugcrowd.com
-https://hackerone.com/
-https://www.synack.com/red-team/
-https://www.guru99.com/bug-bounty-programs.html
+- [https://bugcrowd.com](https://bugcrowd.com])
+- [https://hackerone.com/](https://hackerone.com/)
+- [https://www.synack.com/red-team/](https://www.synack.com/red-team/)
+- [https://www.guru99.com/bug-bounty-programs.html](https://www.guru99.com/bug-bounty-programs.html)
 
 ### Education
-https://www.elearnsecurity.com/course/web application penetration testing/
-https://portswigger.net/web-security
-https://www.giac.org/certification/web-application-penetration-tester-gwapt
-https://security.ine.com/
+- [https://security.ine.com/](https://security.ine.com/)
+- [https://portswigger.net/web-security](https://portswigger.net/web-security)
+- [https://www.giac.org/certification/web-application-penetration-tester-gwapt](https://www.giac.org/certification/web-application-penetration-tester-gwapt)
+- [https://security.ine.com/](https://security.ine.com/)
 
 
