@@ -2,6 +2,7 @@
 [![References](https://img.shields.io/badge/References-green?style=for-the-badge)](https://github.com/Artist-dk/Notes/blob/master/docs/linux/references.md)
 
 [Important contents to know about as a pro hacker.](https://github.com/Artist-dk/Notes/blob/master/docs/linux/ref/important-contents.md)
+[Kali linux - Network settings](https://github.com/Artist-dk/Notes/blob/master/docs/linux/kali/network.md)
 
 ## File System Reference
 
