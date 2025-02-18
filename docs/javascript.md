@@ -7,70 +7,70 @@ This table covers all essential JavaScript topics required for **interviews, fro
 
 | #  | Topic | Subtopics |
 |----|-------|----------|
-| **1️⃣ Basics of JavaScript** | ✅ Introduction | What is JavaScript, History, Uses |
-| | ✅ Variables & Data Types | `var`, `let`, `const`, Primitive & Reference Types |
-| | ✅ Operators | Arithmetic, Logical, Comparison, Assignment, Bitwise |
-| | ✅ Type Conversion & Coercion | Implicit & Explicit Conversion |
-| | ✅ Conditionals | `if-else`, `switch-case`, Ternary Operator |
-| **2️⃣ Loops & Iteration** | ✅ Loops | `for`, `while`, `do-while`, `forEach` |
-| | ✅ Loop Control Statements | `break`, `continue`, `return` |
-| **3️⃣ Functions** | ✅ Function Basics | Function Declaration, Function Expression |
-| | ✅ Arrow Functions | `=>` Syntax, Differences from Regular Functions |
-| | ✅ Parameters & Arguments | Default, Rest, Spread (`...args`) |
-| | ✅ Callback Functions | Concept & Examples |
-| **4️⃣ Objects & Prototypes** | ✅ Object Basics | Creating, Modifying, Deleting Properties |
-| | ✅ `this` Keyword | Context, Arrow Functions vs Regular Functions |
-| | ✅ Object Methods | `Object.keys()`, `Object.values()`, `Object.entries()`, `Object.assign()` |
-| | ✅ Prototypes & Inheritance | Prototype Chain, `__proto__`, `Object.create()` |
-| | ✅ Classes & OOP | Class Syntax, Constructor, `super`, Inheritance |
-| **5️⃣ Advanced Functions** | ✅ Closures | Lexical Scope, Private Variables |
-| | ✅ Higher-Order Functions | `map()`, `filter()`, `reduce()` |
-| | ✅ Function Currying | Partial Function Application |
-| | ✅ Recursion | Recursive Functions & Use Cases |
-| **6️⃣ Asynchronous JavaScript** | ✅ Callbacks | Handling Async Code |
-| | ✅ Promises | `then()`, `catch()`, `finally()` |
-| | ✅ `async/await` | Writing Clean Async Code |
-| | ✅ Error Handling | `try...catch`, `throw` |
-| **7️⃣ Events & DOM Manipulation** | ✅ DOM Basics | `document.querySelector()`, `getElementById()` |
-| | ✅ Events | `addEventListener()`, Event Delegation, Event Bubbling |
-| | ✅ DOM Manipulation | Create, Modify, Delete Elements (`appendChild()`, `innerHTML`) |
-| | ✅ Forms & Validation | Handling User Input, Preventing Default Behavior |
-| **8️⃣ Browser APIs & Storage** | ✅ Local & Session Storage | `localStorage`, `sessionStorage`, `cookies` |
-| | ✅ Fetch API | Making HTTP Requests, Handling Responses |
-| | ✅ Web APIs | `Geolocation`, `Clipboard`, `Notification` APIs |
-| | ✅ WebSockets | Real-time Communication |
-| **9️⃣ Error Handling & Debugging** | ✅ `try...catch` | Error Handling Best Practices |
-| | ✅ Debugging in Browser | DevTools, `console.log()`, Breakpoints |
-| **🔟 ES6+ (Modern JavaScript)** | ✅ Template Literals | Backticks (`) for String Interpolation |
-| | ✅ Destructuring | Array & Object Destructuring |
-| | ✅ Spread & Rest Operator | `...` for Arrays & Objects |
-| | ✅ Modules | `import/export`, ES6 Modules |
-| | ✅ Optional Chaining | `?.` for Safer Property Access |
-| | ✅ Nullish Coalescing | `??` for Default Values |
-| **1️⃣1️⃣ Data Structures in JavaScript** | ✅ Arrays | Methods: `push()`, `pop()`, `slice()`, `splice()` |
-| | ✅ Sets & Maps | `Set()`, `Map()`, WeakMap, WeakSet |
-| | ✅ Stacks & Queues | Implementing with Arrays |
-| | ✅ Linked Lists | Implementing Singly & Doubly Linked Lists |
-| | ✅ Trees & Graphs | Basics of DOM Tree, BFS, DFS |
-| **1️⃣2️⃣ Design Patterns** | ✅ Factory Pattern | Creating Objects Dynamically |
-| | ✅ Singleton Pattern | Restricting Object Creation |
-| | ✅ Observer Pattern | Event-driven Programming |
-| | ✅ MVC & MVVM | Architecture Patterns |
-| **1️⃣3️⃣ JavaScript in Frontend Development** | ✅ DOM Manipulation | Handling UI Interactions |
-| | ✅ Fetch API & AJAX | Making Network Calls |
-| | ✅ Frontend Frameworks | React, Vue, Angular Basics |
-| | ✅ Web Performance Optimization | Lazy Loading, Caching |
-| **1️⃣4️⃣ JavaScript in Backend Development** | ✅ Node.js Basics | Setting Up a Node Server |
-| | ✅ Express.js | Building REST APIs |
-| | ✅ Database Connectivity | MongoDB, PostgreSQL, MySQL with Node.js |
-| | ✅ Authentication & Security | JWT, OAuth, Password Hashing |
-| **1️⃣5️⃣ Testing & Deployment** | ✅ Unit Testing | Jest, Mocha, Chai |
-| | ✅ Debugging Techniques | Logging, Error Tracking |
-| | ✅ Deployment | Hosting Node.js Apps on Heroku/Vercel |
-| **1️⃣6️⃣ Advanced Topics** | ✅ WebSockets | Real-time Chat Applications |
-| | ✅ Service Workers | Offline Web Apps, PWA |
-| | ✅ WebAssembly | Running Other Languages in JS |
-| | ✅ Machine Learning in JavaScript | TensorFlow.js |
+| **1️⃣ Basics of JavaScript** | ✅ [Introduction](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS001.md) | What is JavaScript, History, Uses |
+| | ✅ [Variables & Data Types](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS002.md) | `var`, `let`, `const`, Primitive & Reference Types |
+| | ✅ [Operators](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS003.md) | Arithmetic, Logical, Comparison, Assignment, Bitwise |
+| | ✅ [Type Conversion & Coercion](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS004.md) | Implicit & Explicit Conversion |
+| | ✅ [Conditionals](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS005.md) | `if-else`, `switch-case`, Ternary Operator |
+| **2️⃣ Loops & Iteration** | ✅ [Loops](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS006.md) | `for`, `while`, `do-while`, `forEach` |
+| | ✅ [Loop Control Statements](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS007.md) | `break`, `continue`, `return` |
+| **3️⃣ Functions** | ✅ [Function Basics](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS008.md) | Function Declaration, Function Expression |
+| | ✅ [Arrow Functions](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS009.md) | `=>` Syntax, Differences from Regular Functions |
+| | ✅ [Parameters & Arguments](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS010.md) | Default, Rest, Spread (`...args`) |
+| | ✅ [Callback Functions](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS011.md) | Concept & Examples |
+| **4️⃣ Objects & Prototypes** | ✅ [Object Basics](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS012.md) | Creating, Modifying, Deleting Properties |
+| | ✅ [`this` Keyword](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS013.md) | Context, Arrow Functions vs Regular Functions |
+| | ✅ [Object Methods](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS014.md) | `Object.keys()`, `Object.values()`, `Object.entries()`, `Object.assign()` |
+| | ✅ [Prototypes & Inheritance](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS015.md) | Prototype Chain, `__proto__`, `Object.create()` |
+| | ✅ [Classes & OOP](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS016.md) | Class Syntax, Constructor, `super`, Inheritance |
+| **5️⃣ Advanced Functions** | ✅ [Closures](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS017.md) | Lexical Scope, Private Variables |
+| | ✅ [Higher-Order Functions](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS018.md) | `map()`, `filter()`, `reduce()` |
+| | ✅ [Function Currying](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS019.md) | Partial Function Application |
+| | ✅ [Recursion](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS020.md) | Recursive Functions & Use Cases |
+| **6️⃣ Asynchronous JavaScript** | ✅ [Callbacks](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS021.md) | Handling Async Code |
+| | ✅ [Promises](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS022.md) | `then()`, `catch()`, `finally()` |
+| | ✅ [`async/await`](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS023.md) | Writing Clean Async Code |
+| | ✅ [Error Handling](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS024.md) | `try...catch`, `throw` |
+| **7️⃣ Events & DOM Manipulation** | ✅ [DOM Basics](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS025.md) | `document.querySelector()`, `getElementById()` |
+| | ✅ [Events](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS026.md) | `addEventListener()`, Event Delegation, Event Bubbling |
+| | ✅ [DOM Manipulation](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS027.md) | Create, Modify, Delete Elements (`appendChild()`, `innerHTML`) |
+| | ✅ [Forms & Validation](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS028.md) | Handling User Input, Preventing Default Behavior |
+| **8️⃣ Browser APIs & Storage** | ✅ [Local & Session Storage](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS029.md) | `localStorage`, `sessionStorage`, `cookies` |
+| | ✅ [Fetch API](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS030.md) | Making HTTP Requests, Handling Responses |
+| | ✅ [Web APIs](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS031.md) | `Geolocation`, `Clipboard`, `Notification` APIs |
+| | ✅ [WebSockets](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS032.md) | Real-time Communication |
+| **9️⃣ Error Handling & Debugging** | ✅ [`try...catch`](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS033.md) | Error Handling Best Practices |
+| | ✅ [Debugging in Browser](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS034.md) | DevTools, `console.log()`, Breakpoints |
+| **🔟 ES6+ (Modern JavaScript)** | ✅ [Template Literals](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS035.md) | Backticks (`) for String Interpolation |
+| | ✅ [Destructuring](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS036.md) | Array & Object Destructuring |
+| | ✅ [Spread & Rest Operator](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS037.md) | `...` for Arrays & Objects |
+| | ✅ [Modules](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS038.md) | `import/export`, ES6 Modules |
+| | ✅ [Optional Chaining](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS039.md) | `?.` for Safer Property Access |
+| | ✅ [Nullish Coalescing](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS040.md) | `??` for Default Values |
+| **1️⃣1️⃣ Data Structures in JavaScript** | ✅ [Arrays | Methods](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS041.md) : `push()`, `pop()`, `slice()`, `splice()` |
+| | ✅ [Sets & Maps](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS042.md) | `Set()`, `Map()`, WeakMap, WeakSet |
+| | ✅ [Stacks & Queues](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS043.md) | Implementing with Arrays |
+| | ✅ [Linked Lists](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS044.md) | Implementing Singly & Doubly Linked Lists |
+| | ✅ [Trees & Graphs](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS045.md) | Basics of DOM Tree, BFS, DFS |
+| **1️⃣2️⃣ Design Patterns** | ✅ [Factory Pattern](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS046.md) | Creating Objects Dynamically |
+| | ✅ [Singleton Pattern](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS047.md) | Restricting Object Creation |
+| | ✅ [Observer Pattern](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS048.md) | Event-driven Programming |
+| | ✅ [MVC & MVVM](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS049.md) | Architecture Patterns |
+| **1️⃣3️⃣ JavaScript in Frontend Development** | ✅ [DOM Manipulation](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS050.md) | Handling UI Interactions |
+| | ✅ [Fetch API & AJAX](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS051.md) | Making Network Calls |
+| | ✅ [Frontend Frameworks](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS052.md) | React, Vue, Angular Basics |
+| | ✅ [Web Performance Optimization](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS053.md) | Lazy Loading, Caching |
+| **1️⃣4️⃣ JavaScript in Backend Development** | ✅ [Node.js Basics](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS054.md) | Setting Up a Node Server |
+| | ✅ [Express.js](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS055.md) | Building REST APIs |
+| | ✅ [Database Connectivity](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS056.md) | MongoDB, PostgreSQL, MySQL with Node.js |
+| | ✅ [Authentication & Security](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS057.md) | JWT, OAuth, Password Hashing |
+| **1️⃣5️⃣ Testing & Deployment** | ✅ [Unit Testing](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS058.md) | Jest, Mocha, Chai |
+| | ✅ [Debugging Techniques](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS059.md) | Logging, Error Tracking |
+| | ✅ [Deployment](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS060.md) | Hosting Node.js Apps on Heroku/Vercel |
+| **1️⃣6️⃣ Advanced Topics** | ✅ [WebSockets](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS061.md) | Real-time Chat Applications |
+| | ✅ [Service Workers](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS062.md) | Offline Web Apps, PWA |
+| | ✅ [WebAssembly](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS063.md) | Running Other Languages in JS |
+| | ✅ [Machine Learning in JavaScript](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS064.md) | TensorFlow.js |
 
 ---
 
