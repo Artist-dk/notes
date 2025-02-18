@@ -345,4 +345,5 @@ To install more tools via apt modify file `/etc/apt/sources.list` as per you nee
 - [https://www.giac.org/certification/web-application-penetration-tester-gwapt](https://www.giac.org/certification/web-application-penetration-tester-gwapt)
 - [https://security.ine.com/](https://security.ine.com/)
 
-
+### AI
+- [https://www.whiterabbitneo.com](https://www.whiterabbitneo.com)
