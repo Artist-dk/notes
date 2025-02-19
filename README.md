@@ -17,6 +17,7 @@ The repository is organized into different sections, each corresponding to a spe
 ├── [Hacking](https://github.com/Artist-dk/Notes/blob/master/docs/hacking.md)<br />
 ├── [Python](https://github.com/Artist-dk/Notes/blob/master/docs/python.md)<br />
 ├── [JavaScript](https://github.com/Artist-dk/Notes/blob/master/docs/javascript.md)<br />
+├── [Cypress](https://github.com/Artist-dk/Notes/blob/master/docs/cypress.md)<br />
 └── [Cryptography](https://github.com/Artist-dk/Notes/blob/master/docs/cryptography.md)<br />
 
 ---
