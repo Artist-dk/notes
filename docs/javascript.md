@@ -47,7 +47,7 @@ This table covers all essential JavaScript topics required for **interviews, fro
 | | ✅ [Modules](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS038.md) | `import/export`, ES6 Modules |
 | | ✅ [Optional Chaining](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS039.md) | `?.` for Safer Property Access |
 | | ✅ [Nullish Coalescing](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS040.md) | `??` for Default Values |
-| **1️⃣1️⃣ Data Structures in JavaScript** | ✅ [Arrays | Methods](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS041.md) : `push()`, `pop()`, `slice()`, `splice()` |
+| **1️⃣1️⃣ Data Structures in JavaScript** | ✅ [Arrays](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS041.md)  | Methods: `push()`, `pop()`, `slice()`, `splice()` |
 | | ✅ [Sets & Maps](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS042.md) | `Set()`, `Map()`, WeakMap, WeakSet |
 | | ✅ [Stacks & Queues](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS043.md) | Implementing with Arrays |
 | | ✅ [Linked Lists](https://github.com/Artist-dk/notes/blob/master/docs/javascript/JS044.md) | Implementing Singly & Doubly Linked Lists |
