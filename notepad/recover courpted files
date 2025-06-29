@@ -1,0 +1,5 @@
+DISM /Online /Cleanup-Image /RestoreHealth
+sfc /scannow
+CHKDSK C:/f /r /x
+
+4DDiG Windows Data Recovery

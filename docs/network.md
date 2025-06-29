@@ -17,7 +17,7 @@ uname -a
 Use the following commands to check the status of your network interfaces:
 
 ```
-iwconfig
+iwconfig   
 ifconfig
 ip addr
 ```
